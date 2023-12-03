@@ -49,6 +49,7 @@ const Navitems = () => {
             isOpen={isOpen}
             key={category.value}
             isAnyOpen={isAnyOpen}
+            // close (causing type error currently)
           />
         );
       })}

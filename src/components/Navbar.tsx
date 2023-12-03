@@ -4,6 +4,7 @@ import { Icons } from "./Icons";
 import Navitems from "./Navitems";
 import Link from "next/link";
 import { buttonVariants } from "./ui/button";
+import Cart from "./Cart";
 
 const Navbar = () => {
   // user login check
